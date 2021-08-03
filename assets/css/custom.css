@@ -1,0 +1,40 @@
+.title-box { 
+    padding-top: 6em;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 24px;
+    font-weight: 400; 
+    text-align: center !important;
+    letter-spacing: normal;
+    margin-bottom: 2em;
+}
+
+.container>h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 22px;
+    font-weight: 400; 
+    text-align: center !important;
+    letter-spacing: normal;
+}
+
+.paragraph-text {
+    font-family: 'Merriweather', serif;
+    font-weight: 200; 
+    
+    font-size: 20px;
+}
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 0; 
+    border-top: 1px solid rgb(235, 235, 235);
+    margin: 3em 10em 3em 10em;
+    
+}
+
+a {
+    text-decoration: none;
+}

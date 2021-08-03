@@ -1,0 +1,3 @@
+url: "https://magoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/making-decisions" # the subpath of your site, e.g. /blog
+title: "Making decisions" # the name of your site, e.g. ACME Corp.
