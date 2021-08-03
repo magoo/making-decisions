@@ -189,7 +189,7 @@ However, if I don't feel like having a hot dog... I won't even take one for free
 
 Well... if objective data can be so easily replaced by subjective evaluations, why are we always so rabid about making all decisions based on objective data?
 
-Consider that some decisions are made on subjective information. That information _could_ have been based on objective information. 
+Consider that some decisions are made on subjective information when it _could_ have been based on objective information. 
 
 For example, if a wealthy person told everyone at Costco that "_the hot dogs are cheap!_", others would be informed by this subjective assessment. Someone in line might be surprised to eventually find that hot dogs are $1.50 and out of their budget.
 
