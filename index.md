@@ -24,7 +24,7 @@ Short and drafty writing about decisions (by [@magoo](https://www.twitter.com/ma
  - [Abduction and prioritization](#abduction-and-prioritization)
  - [Measurement is an approximation](#measurement-is-an-approximation)
  - [Relief](#relief)
- - [Utility](#utility)
+ - [Quantifying Value](#quantifying-value)
 
 ***
 
@@ -87,6 +87,7 @@ You may have heard that quantitative things are objective, and qualitative thing
 
 An estimate may be subjective and quantitative. For example, a human may approximate that you're 6ft tall. A tape measure may approximate that you're 6ft tall. Both are quantitative, but one is subjective.
 
+***
 
 ## Subjectivity in groups
 Groups of people can behave as virtual subjects. Groups can frame a decision and vote on a model that represents the group. 
