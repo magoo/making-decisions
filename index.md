@@ -203,7 +203,7 @@ We should probably aim to gather objective data that can efficiently replace sub
 
 When delegating a decision to another individual, an issue of trust arises.  Will the subject make decisions with our bests interests in mind?
 
-This is where groups of people in teams, committees, or voters hope to mitigate trust issues. Consensus comes with the expense (slowness, complexity) but assists with mitigating against the bias of a single decision maker.
+This is where groups of people in teams, committees, or voters hope to mitigate trust issues. Consensus comes with expense (slowness, complexity) but assists with mitigating against the bias of a single decision maker.
 
 Though, groups of individuals can still be biased. This makes diverse views _within_ those groups valuable. Diversifying a group should have varying perspectives, backgrounds, and knowledge to achieve the expected mitigation... so long as the group shares an objective.
 
@@ -244,9 +244,9 @@ Now, let's flip abduction around to _intended outcomes_ (which have not happened
 
 The ability to create a hypothesis, decision model, or investigation involves a murky _abductive skill_ that lies squarely in creativity and knowledge.
 
-Why is this? Well, there are infinite possible hypotheses we could pursue with experiments to explain what we see around us. This doesn't make these hypotheses all worth testing. Nor does anyone tasked with inquisition enumerate all possible hypotheses.  
+Why is this? Well, there are infinite possible hypotheses we could pursue with experiments to explain what we see around us. This doesn't make these hypotheses all worth testing. Nor will anyone tasked with inquisition attempt to enumerate all possible hypotheses.  
 
-Abductive logic happens behind the scenes when selecting models or hypotheses to test _first_. Only a human brain knows that some are better than others. 
+Abductive logic happens behind the scenes when selecting models or hypotheses to test _first_. Only a brain knows that some are better than others.
 
 There is a role of subjectivity involved with hypotheses and decision making because we _prioritize_ based on our needs.
 
@@ -289,15 +289,15 @@ Now ask them to work together and merge their ideas if desired. Did their work c
 
 Then include the entire US intelligence community. Again, did it change?
 
-During this exercise, at what point did this frame become the _correct_ frame, if ever?
+At what point could this frame become the _correct_ frame?
 
-More importantly, do you think the frame would drastically change from one round of investment to the next? Does it improve linearly with investment?
+More importantly, do you think the frame could change from one round of investment to the next? Does it improve linearly with investment? Maybe the return dwindles?
 
-Further, does this suggest that an _objectively_ _correct_ decision exists, or is at all obtainable?
+We can go further to suggest an _objectively_ _correct_ decision might not exist, or might not be obtainable, if it would never stabilize.
 
 Instead, this questioning suggests that throwing more subjective resources at framing a decision may be helpful. But, there seems to be no objective threshold for _having enough_ that we can know in advance.
 
-To me, this is a relief. While we can estimate where returns will diminish on our investment in a decision, it may be impossible to know where that may point may lie. There is no way to know. Take relief in doing your best.
+This should be a relief. While we can estimate where returns will diminish on our investment in a decision, it may be impossible to know where that may point may lie. There is no way to know. Take relief in doing your best.
 
 
 ***
@@ -321,15 +321,6 @@ I would rather have no hot dogs than too many hot dogs. Most preferred are the r
 See? Value can be illustrated or communicated with interesting distributions of utils. Utils are a fictional unit of measure, but it still works out somehow.
 
 Concepts like [dot voting](https://en.wikipedia.org/wiki/Dot-voting) quickly come to mind when exploring preferences and consensus in decisions.
-
-
-
-
-
-
-
-
-
 
 ***
 
