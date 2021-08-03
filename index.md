@@ -313,7 +313,7 @@ Assume I have 100 utils to spare. I would put:
 - 25 utils on two hot dogs, because I think I could handle two.
 - 20 utils on three hot dogs, because I could give one away.
 - 5 utils on four hot dogs. This is becoming wasteful.
-- Zero utils for anything above four. A hot dog curse
+- Zero utils for anything above four hot dogs. Eventually it would become a curse.
 
 I would rather have no hot dogs than too many hot dogs. Most preferred are the right amount of hot dogs.
 
